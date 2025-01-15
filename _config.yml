@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujia Shen/Personal homepage"
+title                    : "Yujia Shen's Personal homepage"
 title_separator          : "-"
 name                     : &name "Yujia Shen"
 description              : &description "personal description"
