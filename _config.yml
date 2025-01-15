@@ -21,7 +21,7 @@ repository               : "ayra11/ayra11.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "1IMG_7797.png"
+  avatar           : "白底缩小.png"
   name             : "Yujia Shen"
   pronouns         : "she/her"  
   bio              : "Aspiring data analyst and statistician with expertise in causal inference, machine learning, and labor market analysis, dedicated to transforming complex data into actionable insights through advanced analytics and visualization."
