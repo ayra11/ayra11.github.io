@@ -17,7 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayra11/ayra11.github.io"
 
 # Site Author
-  avator           : "ayra11.github.io/images/白底缩小.PNG"
+  avator           : "ayra11.github.io/images/白底缩小.JPG"
   name             : "Yujia Shen"
   pronouns         : #"she/her"  
   bio              : "Aspiring data analyst and statistician, having experiences in advanced analytics and visualization."
