@@ -47,4 +47,4 @@ During my undergraduate studies, I had the privilege of working under [Prof. Fa-
 - **[Email](mailto:yms5500@psu.edu)**  
 - **[GitHub](https://github.com/ayra11)**  
 
-For more details, you can view my **[Curriculum Vitae](file:../assets/CV.pdf)**.
+For more details, you can view my CV**.
