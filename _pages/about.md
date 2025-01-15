@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me  
 
 I am currently a first-year Master's student in **Applied Statistics** at [Pennsylvania State University, University Park](https://www.psu.edu/), with a Bachelor’s degree in **Finance** from [Wenzhou-Kean University](https://www.wku.edu.cn/en). My academic interests include **labor market analysis**, **causal inference methodologies**, **machine learning applications**, **natural language processing (NLP) for recruitment insights**, and **data visualization and analytics for decision-making**. 
 
