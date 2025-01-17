@@ -13,13 +13,13 @@ title_separator          : "-"
 name                     : &name "Yujia Shen"
 description              : &description "personal description"
 url                      : https://ayra11.github.io # the base hostname & protocol for your site e.g. "https://ayra11.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "ayra11/ayra11.github.io"
 
 # Site Author
 author:
   name             : "Yujia Shen"
-  avatar           : "白底缩小.PNG"
+  avatar           : "profile.png"
   pronouns         : #"she/her"  
   bio              : "Aspiring data analyst and statistician, having experiences in advanced analytics and visualization."
   location         : "PA, USA"
