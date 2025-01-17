@@ -48,4 +48,6 @@ During my undergraduate studies, I had the privilege of working under [Prof. Fa-
 - **[GitHub](https://github.com/ayra11)**
 - **[Linkedin](https://www.linkedin.com/in/yujia-shenkkk)**
 
+---
+
 For more details, you can view my CV.
