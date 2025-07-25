@@ -40,8 +40,19 @@ redirect_from:
 ### **Data Visualization with Tableau Specialization**  
 *University of California, Davis*  
 **01/2025**  
-- Built 10 interactive Tableau dashboards as part of the certification, leveraging advanced techniques like calculated fields, parameterized controls, and data blending to effectively communicate labor market and sales trends.  
+- Built 10 interactive Tableau dashboards as part of the certification, leveraging advanced techniques like calculated fields, parameterized controls, and data blending to effectively communicate labor market and sales trends.
+---
 
+# **Working Experience**
+
+### **Database Standardization and Analytics in Chinese Labor Market**  
+*WKU Center for Regional Labor Studies*  
+*Remote / Wenzhou, China*  
+**05/2025 – Present**  
+- Maintained and managed a labor market database with over **30 million records** using **PostgreSQL** and **MySQL**, ensuring schema consistency, performing routine data audits, and optimizing query performance to support research workflows.  
+- Conducted crosswalk mappings between **Chinese and U.S. classification systems** (skills, majors, SOC codes, industries) using **natural language processing (NLP)** and **PyTorch-based semantic alignment models**.  
+- Developed automated **SQL scripts and Python pipelines** to track missing values, extract filtered subsets, and meet dynamic data requests across multiple academic projects.  
+- Led a team of research assistants to produce **empirical data analysis reports**, coordinating workflows on data access, cleaning, and interpretation for faculty-led studies.
 ---
 
 # **Research Experience**
