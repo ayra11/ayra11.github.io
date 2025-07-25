@@ -59,6 +59,15 @@ redirect_from:
 
 # **Research Experience**
 
+### **The Impact of Intergenerational Family Networks on Individual Health: Evidence from the PSID**  
+*Pennsylvania State University*  
+*State College, USA*  
+**12/2024 – Present**  
+*Principal Investigator (Advised by Professor Yubai Yuan, Ph.D. in Statistics, University of Illinois Urbana-Champaign)*  
+- Performed advanced data wrangling and management on longitudinal data from the Panel Study of Income Dynamics (PSID), ensuring completeness and consistency across multiple waves to support causal inference analysis.  
+- Built and estimated complex causal inference models, including deep latent variable models and causal generative neural networks to uncover mechanisms through which intergenerational family networks affect individual health.  
+- Conducted comprehensive literature reviews on causal inference and health network studies, evaluating methodological innovations and empirical findings to inform model selection and research design.
+  
 ### **The Demand for Fintech Skills in China: Evidence on Wages and Firms’ Performance**  
 *Student Partnering with Faculty (SpF) Research Program (2022-2023) with ¥30,000 Grant*  
 *Wenzhou, China*  
