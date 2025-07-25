@@ -10,6 +10,7 @@ redirect_from:
 I am currently a first-year Master's student in **Applied Statistics** at [Pennsylvania State University, University Park](https://www.psu.edu/), with a Bachelor’s degree in **Finance** from [Wenzhou-Kean University](https://www.wku.edu.cn/en). My academic interests include **labor market analysis**, **causal inference methodologies**, **machine learning applications**, **natural language processing (NLP) for recruitment insights**, and **data visualization and analytics for decision-making**. 
 
 During my undergraduate studies, I had the privilege of working under [Prof. Fa-Hsiang Chang](https://cbpm.wku.edu.cn/en/node/2238), where I participated in multiple research projects focusing on labor market trends and the impact of automation on employment. Currently, I am advancing my expertise under the guidance of [Prof. Yuan Yubai](https://yubaiyuan-stats.github.io/), delving deeper into causal inference methodologies and their applications.  
+
 ---
 
 ## Working Experiences  
