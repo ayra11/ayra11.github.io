@@ -17,10 +17,8 @@ During my undergraduate studies, I had the privilege of working under [Prof. Fa-
 
 1. **Database Researcher**
 ***WKU Center for Regional Labor Studies, Wenzhou, China***                                                                      
-- Maintained and managed a 30M+ record labor market database using PostgreSQL and MySQL, ensuring schema consistency, performing routine data audits, and optimizing query performance to support downstream research pipelines.
-- Conducted crosswalk mappings between Chinese and U.S. classification systems for skills, majors, SOC codes, and industries by leveraging natural language processing (NLP) techniques and PyTorch-based semantic matching models.
-- Built automated SQL scripts and Python pipelines for missing data tracking, record extraction, and customized filtering for dynamic research needs across multiple academic projects.
-- Led a team of research assistants to produce empirical data analysis reports, coordinating tasks in database access, data cleaning, and interpretation.
+	- Maintained and optimized a 30M+ record labor market database using PostgreSQL and MySQL, ensuring schema consistency, running routine audits, and developing automated SQL/Python pipelines for missing data tracking, record extraction, and performance tuning.
+	- Led efforts to map Chinese and U.S. classification systems (skills, majors, SOC codes, industries) using NLP techniques and PyTorch-based semantic models, and supervised a team of research assistants to generate empirical analysis reports across multiple academic projects.
 
 ---
 
@@ -32,7 +30,7 @@ During my undergraduate studies, I had the privilege of working under [Prof. Fa-
 
 2. **Labor Market Concentration and Its Effect on Local Labor Markets in China**  
    - Managed a SQL database containing over 10 million records to identify regional labor market patterns.  
-   - Created interactive SQL-based reports, providing actionable insights for academic and industry stakeholders.  
+   - Created interactive SQL-based reports, providing actionable insights for academic and industry stakeholders. 
 
 3. **The Effect of Automation on Employment and Wage Distribution**  
    - Scraped and processed more than 5 million job postings to analyze the impact of automation technologies on wage distribution.  
