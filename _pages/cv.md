@@ -24,7 +24,7 @@ redirect_from:
 *Master of Science, Major in Applied Statistics*  
 *State College, USA*  
 **09/2024 – Present**  
-- **GPA:** 3.89/4.00  
+- **GPA:** 3.95/4.00  
 - **Core Coursework:** Regression Methods, Applied Data Mining & Statistical Learning, Analysis of Variance and Design of Experiments, Design and Analysis of Clinical Trials  
 
 ---
@@ -41,6 +41,7 @@ redirect_from:
 *University of California, Davis*  
 **01/2025**  
 - Built 10 interactive Tableau dashboards as part of the certification, leveraging advanced techniques like calculated fields, parameterized controls, and data blending to effectively communicate labor market and sales trends.
+  
 ---
 
 # **Working Experience**
@@ -53,6 +54,7 @@ redirect_from:
 - Conducted crosswalk mappings between **Chinese and U.S. classification systems** (skills, majors, SOC codes, industries) using **natural language processing (NLP)** and **PyTorch-based semantic alignment models**.  
 - Developed automated **SQL scripts and Python pipelines** to track missing values, extract filtered subsets, and meet dynamic data requests across multiple academic projects.  
 - Led a team of research assistants to produce **empirical data analysis reports**, coordinating workflows on data access, cleaning, and interpretation for faculty-led studies.
+  
 ---
 
 # **Research Experience**
